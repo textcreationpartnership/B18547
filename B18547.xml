@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case between the farmers of the excise and the merchants; touching brandy, upon the laws of excise in the XII.Car.II.Cap.23,24.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18547</idno><idno type="EEBO-CITATION">99885714</idno>
+  <idno type="VID">201643</idno>
+  <idno type="EEBO-PROQUEST">2240899920</idno>
+  
+            <idno type="STC">Wing C856</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[84]</idno>
+            <idno type="STC">ESTC R224864</idno>
+            <idno type="PROQUEST">ocm99885714</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885714e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201643)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[88])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case between the farmers of the excise and the merchants; touching brandy, upon the laws of excise in the XII.Car.II.Cap.23,24.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1668?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Early works to 1800.</term>
+               <term type="topical_term">Alcohol --  Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Brandy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:201643:1"/>
+            <head>The CASE between the <hi>FARMERS</hi> of the EXCISE and the <hi>MERCHANTS,</hi> touching BRANDY, upon the LAWS of EXCISE in the XII. <hi>CAR. II.</hi> Cap. <hi>23, 24.</hi>
+            </head>
+            <p>THe Question is, Whether, according to <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e true meaning and intention of those Laws, Brandy is to pay 4 <hi>d. per</hi> Gallon, rated on Spirits made of Wine and Sider, or 8 <hi>d.</hi> rated on Strong-wat<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>perfectly made.</hi>
+            </p>
+            <p>For the clearing of which, It is to be considered,</p>
+            <p>
+               <hi>First,</hi> On what, that Rate for every Gallon of Spirits made of any kind of Wine or Sider, Imported, was intended, whether on Brandy or any other Commodity, and whether on Brandy Imported, or on Brandy made in <hi>England.</hi>
+            </p>
+            <p n="1">I. The Farmers of Excise themselves acknowledge it was intended on Brandy, there being no other Spirits of Wine sold by the Gallon, but that which is now called <hi>Brandy.</hi> But they say, It was intended of Spirits, made in <hi>England,</hi> of Wine and Sider Imported, and not of those brought from Forreign Parts.</p>
+            <p n="2">II. That it was intended, and cannot be otherwise construed then of Spirits Imported will appear;
+<list>
+                  <item>1. In that, the Rate is one entire sentence, and the word <hi>Imported</hi> ought to refer to the quantity, which is every Gallon of Spirits, and so it doth in all, the other Rates where it is used.</item>
+                  <item>2. The common Acceptation hath alwaies take it so, as <hi>per</hi> the Marginal Notes and the Practice for six years, by all Commissioners and Farmers, till <hi>Anno</hi> 1666.</item>
+                  <item>3. Otherwise, there is no person appointed to pay <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, which in all other Duties there is Direction for.</item>
+                  <item>4. It appears by the order of placing it: First, All Commodities made in <hi>England</hi> are Rated: Secondly, All Commodities Imported are Rated, the Duty to be paid by the Importer: Thirdly, There are two new distinct Drinks Rated to be paid by the Maker and Seller.</item>
+                  <item>5. It cannot bear any other construction.
+<list>
+                        <item>1. Because Strong-water made in <hi>England,</hi> of whatever it be made, without exemption or limitation, is to pay but 2 <hi>d.</hi>and there never was any Rate on Spirits made in <hi>England,</hi> as the Farmers in their Paper acknowledge, in any former Time.</item>
+                        <item>2. Because Sider Imported is Rated in the same Act, and it cannot be thought, that in the same Act there should be a double Charge on one Commodity.</item>
+                        <item>3. It were impossible to make any Spirits of Wine in <hi>England,</hi> for that His Majesties Customs on Importation amount to 7 <hi>l.</hi> 10 <hi>s.per</hi> Tun, besides the Duty of Coynage since imposed, six Tuns of Wine will make but one Tun of Brandy, so the King should receive 45 <hi>l.</hi> for the Wine to make a Tun of Brandy, which when made, would not yield above 30 <hi>l.</hi> And to what is Objected, <hi>That the Merchant would bring in decayed Wine, which pays but little Duty:</hi>
+                        </item>
+                        <item>It is Answered, That for bad and decayed Wines, there is allowed but ⅓ abatement of the Customs: So that the Kings Duties on decayed Wines, would come to 30 <hi>l.</hi> for so much as would make a Tun of Brandy of.</item>
+                        <item>It is true, That sometimes (though very rarely) Spirits have been distilled from decayed Wine or Lees, but then the Distiller hath bought them from the Merchant, for a great deal less than the Merchant paid the King for the Duty on Importation.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Obj.</hi> To that which is Objected, <hi>That if it be understood of Spirits Imported, the King could not recover His Duty, if the Merchant should put the King to prove that it was made of Wine or Sider.</hi>
+            </p>
+            <p n="1">
+               <hi>Answ.</hi> I. There was never any Merchant that questioned this in upwards of Twenty three years.</p>
+            <p n="2">II. It is easily distinguished by the taste, whether it be made of Wine or other things.</p>
+            <p n="3">III. The same Question would arise, if it were understood of Spirits made in <hi>England.</hi>
+            </p>
+            <p>By all which it is evident, That the Rate on Spirits was intended on Spirits of Wine Imported, and there being no other Spirits of Wine Imported but Brandy, it must undeniably follow, That it intended Brandy Imported.</p>
+            <p>
+               <hi>Secondly,</hi> For the right understanding of any Law, The common Acceptation of things at the time of the making of such Law, is accounted the best Rule for its Construction.</p>
+            <div type="part">
+               <head>Now it is evident and hath been proved, </head>
+               <p n="1">I. That at the time of making the Present Laws, in <hi>Anno</hi> 1660. Brandy was esteemed Spirits of Wine, and paid the Rates on Spirits of Wine, and had done so from <hi>Anno,</hi> 1644. to that time.</p>
+               <p n="2">II. That the former Commissioners and Farmers did so take it, and that upon taking advice of Mr. <hi>Allen</hi> the Counsellor, who was a Learned Man in the Law, he told them, They ought to take no more, unless they had a mind to be hanged.</p>
+               <p n="3">III. That all former Farmers, and these present Farmers till after this dispute, did take of the Distillers 2 <hi>d.</hi> Excise, for every Gallon of Strong-waters made of Brandy.</p>
+               <p n="4">IV. That the Commissioners of the Excise, did, in their Commissions to their Officers, appoint them to search for Spirits of Wine, commonly called <hi>Brandy-wine,</hi> Imported from beyond the Seas.</p>
+               <p n="5">V. That by a Pretended Ordinance in 1647. Brandy was by the name of Spirits of Wine charged with a Duty of 24 <hi>s. per</hi> Tun, and from that time to <hi>Anno</hi> 1660. it pass'd so at the Custom house, proved by <hi>Jos. Dawson.</hi>
+               </p>
+               <p>By all which it is evident, That at the time of the making the Laws in <hi>Anno</hi> 1660. Brandy was in common Acceptation taken as it is for Spirits of Wine, and that the Duties charged on Spirits of Wine, were taken and received for Brandy, and for nothing else.</p>
+               <p>Further, by the former Pretended Laws, an Abstract whereof is Printed, and the Copies proved at the Bar, it is most clear, That Spirits of Wine and Brandy were one and the same thing, and different from Strong-water <hi>perfectly made,</hi> and paid alwaies different Duties.</p>
+               <p>As to the Nature of Brandy, though this is not so necessary, the Law being clear, and the Common Acceptation proved, yet it is evidenced and proved,
+<list>
+                     <item>That Brandy is a Simple Distilled from Wine without any mixture.</item>
+                     <item>That Strong-water <hi>perfectly made</hi> is a Compound, made of Spirits Distilled with Ingredients.</item>
+                     <item>That Brandy is not the same thing which in <hi>England</hi> is called <hi>Aqua-vitae,</hi> that being a Compound.</item>
+                     <item>That in Doctors Receipts and Apothecaries Applications, it is known by the Name of <hi>Spiritus Vini.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>Farther there was to be observed.</head>
+               <p n="1">I. That the present Parliament in the Act for Three hundred and ten thousand pound, had determined this Question, and in that Act many times express it. Brandy and all other Spirits, as also Strong-waters <hi>perfectly made.</hi>
+               </p>
+               <p n="2">II. That several Tryals at Law have been, and that it hath still been adjudged by the Juries for the Merchant: Two Tryals, especially one before the Lord Chief Baron; the other before the Lord Chief Justice, after six or seven hours full hearing of evidence.</p>
+               <p>And to what is objected of a Tryal at the <hi>Kings-Bench</hi> Bar, between the Farmers and one <hi>Humpry Tayler,</hi> It was proved that the same was on design, and that there was no sufficient instruction to the Council or defence made.</p>
+               <p>
+                  <hi>Obj.</hi> The great objection, and that on which the Farmers Insist chiefly, is the Use, <hi>That Brandy is drank of it self, and is used in a common way to drink as Strong-water.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The Law being for the Merchants, the Use cannot overthrow or alter the Law, nor the nature of the thing, it being free for every man to use a thing as he sees good: And if the Use were sufficient, The Farmers of the Custom might with more reason, Make the Merchants pay for Brandy as for Wine, There being nothing in it but Wine; and as Wine is commonly drank, so Brandy is commonly drank of it self; and then the Merchants should pay 7 <hi>l.</hi> 10 <hi>s.</hi> a Tun Custom, instead of 24 <hi>. per</hi> Tun Custom. The Use cannot denominate a thing, if so, then Beer, Ale, and all drinkable Liquors would change their names, Or be called by one and the same name, because used in one and the same manner, which would be ridiculous.</p>
+            </div>
+            <div type="part">
+               <head>The Instance alledged in their Paper, touching Callico is falsely asserted.</head>
+               <p>For Callico was not adjudged to pay as Linnin, because of its Use as they affirm, but because in the Law it was rated under the denomination of Linnin; and that the Excise in the former pretended Laws on Linnin did thus comprehend Callico Linnin or <hi>[Callico]</hi> and the Act discharging all Linnin of Excise, was therefore construed to discharge Callico of Excise, and so <hi>per</hi> Consequent, to charge it with the additional Duty. Accordingly,</p>
+               <p>This Instance makes strongly for the Merchant, The former pretended Laws having alwaies rated Spirits of Wine, commonly called Brandy, distinct from Strongwaters <hi>perfectly made;</hi> and the present Laws having observed the same distinction, It follows, that by the Law and the Intention thereof, Brandy is only to pay the Rate set on Spirits of Wine.</p>
+               <p>
+                  <hi>Obj.</hi> Another Objection was, <hi>That the Merchants had sold their Brandy the deerer in proportion for the</hi> 4 d. per <hi>Gailon taken by the Farmers more then formerly.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> To this, The Merchants are all ready to make Oath, That they have Sold their Brandy deerer before 8 <hi>d.</hi> was demanded, then they have done at any time since.</p>
+            </div>
+            <div type="part">
+               <head>As to the Insinuation of the Farmers, That the Kings Interest is concerned, and that they are but Accountants.</head>
+               <p n="1">I. It appears by their own Paper, That they designed a profit to themselves in prejudice of the Kings Interest, for that they say; It was not their Interest to make a new demand, till they were sure of a new Lease.</p>
+               <p n="2">II. It appears, That the first grant is not Recorded in the Exchequer, though they have obtained a defalcation for that time to the amount of about 30000.</p>
+               <p n="3">III. Since this business hath been in debate in the Parliament, They have procured a privy Seal, (the Docket for which was entred but the 5 <hi>March</hi>) to declare them Accountants for the Year 1667. for part of which time they had before paid their Rent as Farmers.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
